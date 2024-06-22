@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+Requests
+youtube-search-python
+aiohttp
+aiocache
